@@ -59,10 +59,12 @@ delay(1000);
 
 ## OUTPUT:
 ### Relay OFF
-<img width="837" alt="Screenshot 2024-03-06 142142" src="https://github.com/22009071/Control-of-Relay-Using-IoT-controller/assets/120206067/754914e5-15d0-4194-a314-a8861b8a14de">
+<img width="561" alt="Screenshot 2024-03-06 143321" src="https://github.com/22009071/Control-of-Relay-Using-IoT-controller/assets/120206067/caf94df5-a8a3-4169-9b61-821068f19e97">
 
-### Realy ON
-<img width="838" alt="Screenshot 2024-03-06 142254" src="https://github.com/22009071/Control-of-Relay-Using-IoT-controller/assets/120206067/85ec040f-4d12-4892-9dea-d1a9573a613b">
+### Relay ON
+<img width="556" alt="Screenshot 2024-03-06 143340" src="https://github.com/22009071/Control-of-Relay-Using-IoT-controller/assets/120206067/58b196b1-ea63-42ed-9c37-78b71c1d3940">
+
+
 
 
 
