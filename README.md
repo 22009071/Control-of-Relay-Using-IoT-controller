@@ -1,4 +1,8 @@
-# Control-of-Relay-Using-IoT-controller
+## Name: kabilan T
+## Reg.No: 212222230059
+
+# Exp No:2 Control of Relay Using IoT controller
+
 
 ##  AIM:
 To control the Relay using Arduino controller
