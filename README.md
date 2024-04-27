@@ -58,7 +58,7 @@ delay(1000);
 ```
 
 ## CIRCUIT DIAGRAM:
-![ex 2_page-0001](https://github.com/22009071/Control-of-Relay-Using-IoT-controller/assets/120206067/852952aa-9144-4d22-9e0a-07eda610bca4)
+![Experiment 2_page-0001](https://github.com/Prajeeth17/Control-of-Relay-Using-IoT-controller/assets/120513885/96acb1c2-ce09-4e19-b277-e64d1a466375)
 
 
 ## OUTPUT:
